@@ -1,0 +1,34 @@
+.navigation{
+    float: right;
+    height: 100%;
+}
+
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 30px 200px;
+    background-color: #101011;
+}
+
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+}
+
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+
+.img{
+    float: left;
+    height: 100%;
+}
+
+.logo-container{
+    float: left;
+    height: 100%;
+}
